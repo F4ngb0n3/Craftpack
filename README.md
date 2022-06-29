@@ -5,8 +5,13 @@ The official documentation for the Craftpack Minecraft plugin
 _A craftable Minecraft Backpack Plugin_
 ####  
 
-*Craftpack* brings very simple, craftable backpacks for your players within your server worlds. Using very simple receipes to craft the packs, your players can begin wandering aboot the landscape with 27, 36, 45, or 54 slot backpacks, giving them the space and safety to explore and find and save their valuable items!
+*Craftpack* brings very simple, craftable backpacks for your players within your server worlds. Using very simple receipes to craft the packs, your players can begin wandering aboot the landscape with 27, 36, 45, or 54 slot backpacks, giving them the space and safety to explore and find and save their valuable items!  
+
+And the best part, **Craftpack**'s can be created as many times as you want, and they can be stored inside of eachother! **_PACK IN PACKS IN PACKS!!!_**  
 ####  
+
+### Use-Case:
+To access your pack, **Right-Click** the pack in your inventory and your pack storage will open to you! **RIGHT-CLICK THE PACK...**
 
 ## Sections
 1. [Recipes](recipes.md)
