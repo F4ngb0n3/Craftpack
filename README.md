@@ -1,8 +1,8 @@
-# Craftpack
+# Craftpack  
+<img src="Craftpack.png" width="100" height="100">  
+
 The official documentation for the Craftpack Minecraft plugin
 ####  
-
-![Craftpack](Craftpack.png | width=50)
 
 _A craftable Minecraft Backpack Plugin_
 ####  
