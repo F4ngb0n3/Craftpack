@@ -2,6 +2,8 @@
 The official documentation for the Craftpack Minecraft plugin
 ####  
 
+![Craftpack](Craftpack.png)
+
 _A craftable Minecraft Backpack Plugin_
 ####  
 
