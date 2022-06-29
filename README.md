@@ -9,9 +9,8 @@ _A craftable Minecraft Backpack Plugin_
 ####  
 
 ## Sections
-1. [Configuration](configuration.md)
-2. [Recipes](recipes.md)
-3. [Commands & Permissions](interactives.md)
+1. [Recipes](recipes.md)
+2. [Configuration / Commands / Permissions](interactives.md)
 ####  
 
 ## Support
